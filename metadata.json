@@ -1,0 +1,6 @@
+{
+  "name": "SecretChat",
+  "description": "End-to-end encrypted messaging powered by XMTP and Google Sign-In via Privy.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
